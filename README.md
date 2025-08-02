@@ -19,7 +19,8 @@ Built using **Streamlit** and the **Groq API** (powered by blazing-fast LLMs lik
 
 ## 📸 Demo
 
-![AutoDoc AI Screenshot](./demo-screenshot.png)
+<img width="1861" height="930" alt="image" src="https://github.com/user-attachments/assets/654ad9f6-1bdf-401c-a969-7ec1f3b4bd95" />
+
 
 ---
 
