@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # Initialize Groq client
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "#Replace with your groq api key"
 client = groq.Groq(api_key=GROQ_API_KEY)
 
 # Custom CSS for professional styling and dark/light mode
@@ -640,4 +640,5 @@ def main():
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
+
     main() 
