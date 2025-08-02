@@ -633,7 +633,7 @@ def main():
     # Enhanced footer
     st.markdown("""
     <div class="footer">
-        <p>Built with ❤️ using Streamlit and Groq API</p>
+        <p>Built with ❤️ using Streamlit and Groq API by Shashank Gupta</p>
         <p>AutoDoc AI - Making documentation effortless</p>
         <p>Theme: """ + ("Dark" if st.session_state.dark_mode else "Light") + """ Mode</p>
     </div>
@@ -642,3 +642,4 @@ def main():
 if __name__ == "__main__":
 
     main() 
+
