@@ -38,5 +38,5 @@ Built using **Streamlit** and the **Groq API** (powered by blazing-fast LLMs lik
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/autodoc-ai.git
+git clone https://github.com/Shashankkota/autodoc-ai.git
 cd autodoc-ai
