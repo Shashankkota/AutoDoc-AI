@@ -12,7 +12,7 @@ Built using **Streamlit** and the **Groq API** (powered by blazing-fast LLMs lik
 - 📝 Generates a complete, GitHub-friendly **README.md**
 - 📄 Produces a detailed, professional **Product Requirement Document (PRD)**
 - 💾 Allows users to view and download generated content
-- ⚡ Powered by **Groq-hosted LLMs** (e.g., `mixtral-8x7b-instruct`)
+- ⚡ Powered by **Groq-hosted LLM** 
 - 🧩 Simple and clean **Streamlit interface**
 
 ---
@@ -28,7 +28,7 @@ Built using **Streamlit** and the **Groq API** (powered by blazing-fast LLMs lik
 
 - Python
 - Streamlit
-- Groq API (LLM models like Mixtral, LLaMA, Gemma)
+- Groq API (LLaMA)
 - REST API (via `requests`)
 
 ---
